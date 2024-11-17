@@ -1,7 +1,8 @@
 # backend-assessment
 # My Note API
 
-This project is a secure and scalable RESTful API (using Express.js, Node.js, Postgresql, jets for test) that allows users to signup,login, create notes, read notes, update notes, and delete notes.  
+This project is a secure and scalable RESTful API (using Express.js, Node.js, Postgresql, jets for test) that allows users to signup,login, create notes, read notes, update notes, and delete notes. 
+Include a Postman.
  
 # dependencies
 
