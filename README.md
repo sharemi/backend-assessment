@@ -9,7 +9,7 @@ express, pg , bcryptjs, jsonwebtoken, dotenv, express-rate-limit, nodemon, jest,
 
 ## Project Setup
 
-1. Clone the repository: `git clone https://github.com/yourusername/my-note-api.git`
+1. Clone the repository: `git clone https://github.com/sharemi/backend-assessment.git`
 2. Install dependencies: `npm install`
 3. Create a `.env` file with the following variables:
    PORT=3000 DATABASE_URL=your_database_url JWT_SECRET=your_jwt_secret
